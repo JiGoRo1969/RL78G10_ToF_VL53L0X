@@ -16,6 +16,7 @@ Akizuki : http://akizukidenshi.com/catalog/g/gK-09035/
 ToF sensor board is "AE-VL53L0X" by Akizukidenshi or "#15310" by Strawberry Linux
   
 Akizuki : http://akizukidenshi.com/catalog/g/gM-12590/
+
 Strawberry Linux : https://strawberry-linux.com/catalog/items?code=15310
 
 
