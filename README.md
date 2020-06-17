@@ -48,3 +48,14 @@ ID is defined as D_MY_ID in "cg_src/r_cg_userdefine.h".
 |X'tal                |X1,X2            | mounted on board |
 |OCD Debugger I/F     |RESET, TOOL0     | connecting to DEBUGGER |
 |Non Connections      |P02-05, P41, P137 | |
+  
+You can refer CAD data with Eagle(.brd and .sch) to understand the circuit.
+  
+|File Name | purpose |
+|:--------:|:-------:|
+|RL78G10_ToF_A2.brd| PCB pattern data for ToF sensor with R5F10Y47ASP|
+|RL78G10_ToF_A2.sch| circuit data |
+|--------|-------|
+|RL78G10_E1.brd| PCB pattern data connecting to E1/E2/E2Lite |
+|RL78G10_E1.sch| circuit data |
+  
